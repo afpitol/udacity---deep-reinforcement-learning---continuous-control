@@ -71,3 +71,5 @@ For this project, we have built the Unity environment for you, and you must use 
 
 If you are interested in learning to build your own Unity environments after completing the project, you are encouraged to follow the instructions [here](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Getting-Started-with-Balance-Ball.md), which walk you through all of the details of building an environment from a Unity scene.    
 
+## Instructions
+To train the agent, run the _Continuous_Control.ipynb_. The _model.py_ contains the models definitions and the _ddpg_agent.py_ defines the DDPG algorithm.
