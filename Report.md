@@ -36,4 +36,4 @@ The resulting plot of the rewards during the trainings is as follows:
 ![Pseudocode](/image/results.PNG)
 
 ## Future work  
-Trying to optimize the hyperparameters in a more controlled way, and implementing the one version agent.
+Trying to optimize the hyperparameters in a more controlled and systematic way (genetic algorithms, grid search, etc), and implementing the one version agent.
