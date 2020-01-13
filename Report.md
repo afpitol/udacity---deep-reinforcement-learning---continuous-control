@@ -30,3 +30,7 @@ TAU = 1e-3              # for soft update of target parameters
 LR_ACTOR = 2e-4         # learning rate of the actor   
 LR_CRITIC = 2e-4        # learning rate of the critic  
 WEIGHT_DECAY = 0        # L2 weight decay  
+  
+## Rewards
+The resulting plot of the rewards during the trainings is as follows:  
+![Pseudocode](/image/results.PNG)
