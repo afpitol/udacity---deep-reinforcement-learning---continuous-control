@@ -34,3 +34,6 @@ WEIGHT_DECAY = 0        # L2 weight decay
 ## Rewards
 The resulting plot of the rewards during the trainings is as follows:  
 ![Pseudocode](/image/results.PNG)
+
+## Future work  
+Trying to optimize the hyperparameters in a more controlled way, and implementing the one version agent.
